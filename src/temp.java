@@ -32,10 +32,10 @@ public class temp {
         */
         System.out.println("enter Integer value 1");
         int number = sc.nextInt();
-        int first_value = (a + b) / 10;
-        System.out.println(first_value);
-        int second_value = first_value %10;
-        System.out.println(second_value);
+        //int first_value = (a + b) / 10;
+        //System.out.println(first_value);
+        //int second_value = first_value %10;
+        //System.out.println(second_value);
 
 
     }
